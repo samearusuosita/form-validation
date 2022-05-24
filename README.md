@@ -1,4 +1,7 @@
 # form-validation
 
-This is a react src file only for form validation.
-Kindly download and replace the src file. 
+To run the weather APP file,
+
+First create react App
+
+Then clone the src folder, or replace the folder with this one, then run npm to start the project.
